@@ -35,4 +35,4 @@ The notebook includes solutions to the following tasks:
 
 ## Sample Output
 
-![Precision-Recall Plot](precision_recall_plot.png)
+plt.savefig("precision_recall_plot.png")

@@ -31,4 +31,8 @@ The notebook includes solutions to the following tasks:
 - Python  
 - NumPy  
 - Matplotlib  
-- PyTorch  
+- PyTorch
+
+## Sample Output
+
+![Precision-Recall Plot](precision_recall_plot.png)

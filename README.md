@@ -32,7 +32,3 @@ The notebook includes solutions to the following tasks:
 - NumPy  
 - Matplotlib  
 - PyTorch
-
-## Sample Output
-
-plt.savefig("precision_recall_plot.png")
